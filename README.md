@@ -12,8 +12,7 @@ Found a bug or issue? We want to hear about it! Here’s how you can report it:
 
 1. **Check Existing Issue Posts**: Before creating a new issue, please check our existing issues to avoid duplicates.
 2. **Create a New Issue Posts**: Go to the [Issues tab](https://github.com/steadman1/ponder-feature-bug-tracker/issues) and click on `New Issue`.
-3. **Choose the Bug Report Template**: If available, select the bug report template.
-4. **Fill Out the Template**: Provide as much information as possible - this helps us effectively understand and fix the issue.
+3. **Fill Out the Post**: Provide as much information as possible - this helps us effectively understand and fix the issue.
    - **Title**: A clear, concise title.
    - **Description**: A detailed description of the bug.
    - **Steps to Reproduce**: List the steps to reproduce the behavior.
@@ -27,8 +26,7 @@ Have an idea for a new feature or improvement? Here’s how to propose it:
 
 1. **Check Existing Issues Posts**: Review current issues to see if someone else has already suggested something similar.
 2. **Create a New Issue Posts**: Navigate to [Issues](https://github.com/steadman1/ponder-feature-bug-tracker/issues) and click `New Issue`.
-3. **Choose the Feature Request Template**: Select the feature request template if available.
-4. **Fill Out the Template**: Give us as much information as possible about your feature request.
+3. **Fill Out the Post**: Give us as much information as possible about your feature request.
    - **Title**: A concise title that summarizes the feature request.
    - **Feature Description**: A detailed description of the feature.
    - **Motivation**: Explain why this feature would be useful.
