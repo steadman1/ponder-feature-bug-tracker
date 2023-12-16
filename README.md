@@ -1,6 +1,6 @@
 # Ponder Bug and Feature Tracker - README
 
-Welcome to the Ponder Bug and Feature Tracker! This README provides guidelines on how you can use our GitHub Issues to report bugs and suggest features for Ponder. Your contributions are invaluable in making Ponder a robust and user-friendly tool.
+Welcome to the Ponder Bug and Feature Tracker! This README provides guidelines on how you can use our GitHub Issues page to report bugs and suggest features for Ponder. Your contributions are invaluable in the development of Ponder as a robust and user-friendly app.
 
 ## Getting Started
 
@@ -8,10 +8,10 @@ Before you can report a bug or suggest a feature, you need to have a GitHub acco
 
 ## Reporting Bugs 🐛
 
-Found a bug? We want to hear about it! Here’s how you can report it:
+Found a bug or issue? We want to hear about it! Here’s how you can report it:
 
-1. **Check Existing Issues**: Before creating a new issue, please check our existing issues to avoid duplicates.
-2. **Create a New Issue**: Go to the [Issues tab](https://github.com/steadman1/ponder-feature-bug-tracker/issues) and click on `New Issue`.
+1. **Check Existing Issue Posts**: Before creating a new issue, please check our existing issues to avoid duplicates.
+2. **Create a New Issue Posts**: Go to the [Issues tab](https://github.com/steadman1/ponder-feature-bug-tracker/issues) and click on `New Issue`.
 3. **Choose the Bug Report Template**: If available, select the bug report template.
 4. **Fill Out the Template**: Provide as much information as possible - this helps us effectively understand and fix the issue.
    - **Title**: A clear, concise title.
@@ -25,8 +25,8 @@ Found a bug? We want to hear about it! Here’s how you can report it:
 
 Have an idea for a new feature or improvement? Here’s how to propose it:
 
-1. **Check Existing Issues**: Review current issues to see if someone else has already suggested something similar.
-2. **Create a New Issue**: Navigate to [Issues](https://github.com/steadman1/ponder-feature-bug-tracker/issues) and click `New Issue`.
+1. **Check Existing Issues Posts**: Review current issues to see if someone else has already suggested something similar.
+2. **Create a New Issue Posts**: Navigate to [Issues](https://github.com/steadman1/ponder-feature-bug-tracker/issues) and click `New Issue`.
 3. **Choose the Feature Request Template**: Select the feature request template if available.
 4. **Fill Out the Template**: Give us as much information as possible about your feature request.
    - **Title**: A concise title that summarizes the feature request.
