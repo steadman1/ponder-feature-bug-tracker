@@ -6,7 +6,7 @@ Welcome to the Ponder Bug and Feature Tracker! This README provides guidelines o
 
 Before you can report a bug or suggest a feature, you need to have a GitHub account. If you don't have one, you can sign up for free [here](https://github.com/).
 
-## Reporting Bugs 🐛
+## Reporting Bugs
 
 Found a bug or issue? We want to hear about it! Here’s how you can report it:
 
